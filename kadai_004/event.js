@@ -1,5 +1,5 @@
 $(document).ready(function(){
-       console.log('roadイベントが発生しました');
+       console.log('loadイベントが発生しました');
    });
 
    $(window).scroll(function(){
